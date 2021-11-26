@@ -1,4 +1,19 @@
 {
-	"name": "react-native-template-woopify01",
-	"version": "0.0.1"
-}
+    "name": "react-native-template-woophify01",
+    "version": "2.0.1",
+    "description": "It is a minimalist React Native template with pre configured common set of packages to start a new app.",
+    "scripts": {
+      "test": "exit 0",
+      "release": "release-it"
+    },
+    "keywords": [
+      "template",
+      "boilerplate",
+      "starter",
+      "react-native",
+      "react",
+      "native"
+    ],
+    "author": "Hari Karthyk (www.harikarthyk.xyz)",
+    "license": "MIT",
+  }
