@@ -1,6 +1,6 @@
 {
     "name": "react-native-template-woophify01",
-    "version": "2.0.1",
+    "version": "2.0.0",
     "description": "It is a minimalist React Native template with pre configured common set of packages to start a new app.",
     "scripts": {
       "test": "exit 0",
@@ -15,5 +15,5 @@
       "native"
     ],
     "author": "Hari Karthyk (www.harikarthyk.xyz)",
-    "license": "MIT",
+    "license": "MIT"
   }
